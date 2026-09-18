@@ -1,0 +1,21 @@
+#mahi{
+    color: #e80e0e;
+}
+.sindhu{
+    color: #133ed8;
+}
+.si{
+    color: #9217d9;
+}
+.su{
+    color: #e87e0c;
+}
+#green{
+    background: #0ad328;
+    top: 50px;
+    size: 50px;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
